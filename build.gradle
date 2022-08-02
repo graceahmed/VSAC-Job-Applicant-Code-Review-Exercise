@@ -11,7 +11,7 @@ buildscript {
 }
 
 version "0.1"
-group "myapp"
+group "vsac.job.applicant.code.review.exercise"
 
 apply plugin:"eclipse"
 apply plugin:"idea"

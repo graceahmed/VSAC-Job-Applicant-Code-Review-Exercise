@@ -2,7 +2,7 @@
 grails:
     profile: web
     codegen:
-        defaultPackage: myapp
+        defaultPackage: vsac.job.applicant.code.review.exercise
     gorm:
         reactor:
             # Whether to translate GORM events into Reactor events
